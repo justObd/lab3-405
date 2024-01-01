@@ -1,0 +1,29 @@
+/* body {
+    background-color: lime;
+} */
+
+.image-preview img {
+   border-top: 30px solid skyblue;
+   border-right: 30px solid lightpink;
+   border-bottom: 30px soild lightgreen;
+   border-left: 30px solid #ffeed4; 
+}
+
+
+             p > span { color: red; }
+             #header span { color: pink; }
+             span { color: green; }
+             #header *:last-child { color: orange; }
+             #header span:first-child:hover { color: blue; }
+
+
+             table thead th{
+                padding-right: 200px;
+                border: 1px solid black;
+               
+            }
+            table tr{
+                padding-right: 30px;
+                border: 1px solid black;
+            }
+         
